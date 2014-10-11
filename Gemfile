@@ -9,6 +9,7 @@ gem 'sqlite3'
 
 # Use SCSS for stylesheets
 gem 'sass-rails'
+gem 'bootstrap-sass'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier'
@@ -29,7 +30,6 @@ gem 'turbolinks'
 gem 'jbuilder'
 
 gem 'devise'
-
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
